@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kennewickplumbingco.com/sitemap.xml
